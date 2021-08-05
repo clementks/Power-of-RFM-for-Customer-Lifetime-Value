@@ -11,4 +11,4 @@ Customer lifetime value insights at this level make it exponentially easier to q
 
 With the RFM scoring which enhances visibility into customer's behavioral data, it can provide insights make actionable decision to segment the customer base and apply for different marketing programs for different groups or clusters.
 
-To achieve this RFM Scoring analysis, it can be realized using software applications such as Tableau Desktop or Python which i'll be presenting in the subsequent section.
+To achieve this RFM Scoring analysis, it can be realized using software applications such as Tableau Desktop or Python.
