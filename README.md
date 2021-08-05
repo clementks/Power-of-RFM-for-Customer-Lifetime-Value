@@ -11,4 +11,4 @@
 
    With the RFM scoring which enhances visibility into customer's behavioral data, it can provide insights make actionable decision to segment the customer base and apply for different marketing programs for different groups or clusters.
 
-   To achieve this RFM Scoring analysis, it can be realized using software applications such as Tableau Desktop or Python.
+   To achieve this RFM Scoring analysis, it can be realized using software applications such as Tableau Desktop or Python which can be complemented with Bokeh libraries to achieve the interactivity for data exploration to be on par with Tableau.
