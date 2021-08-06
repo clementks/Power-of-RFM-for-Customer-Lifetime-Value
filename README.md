@@ -19,13 +19,30 @@
 # Dataset Attributes or Features
 ![image](https://user-images.githubusercontent.com/32416129/128457373-cc7482a0-4fea-414b-af59-5ee2340ebff1.png)
 
-**Time series of the number of transactions (daily)**
+**1.1 Time series of the number of transactions (daily)**
 
 ![image](https://user-images.githubusercontent.com/32416129/128457527-19b408ea-18d9-4066-93d6-9b9dc5109207.png)
 
-**Sales Transaction Volume of each province and region in Canada**
+**1.2 Sales Transaction Volume of each province and region in Canada**
  
 ![image](https://user-images.githubusercontent.com/32416129/128458081-b6b7fff0-1bbf-49d7-a7cd-e2c7c8bdf655.png)
+
+
+**1.3 Typical inter-purchase time and IPT distribution (in histogram) & details for each customer**
+
+ - To aid any firm in understanding their customer's purchasing behaviour and profile, below are the few examples shows the prowess of Python programming for intermediate statistical analysis which cannot be realized using Excel standard features. It can be achieved using Excel VBA macro or VB.Net.
+
+![image](https://user-images.githubusercontent.com/32416129/128458796-4bb8cc91-b7a7-472c-aae2-e7ea2d905535.png)
+
+
+
+![image](https://user-images.githubusercontent.com/32416129/128458837-0c08f5b9-ed53-4b65-b965-48020a8444d3.png)
+
+With the recent improvement in Tableau integration in Tableau Prep and TabPy Server to leverage on Tableau 
+
+
+![image](https://user-images.githubusercontent.com/32416129/128458694-96dc6091-c0df-4756-b267-6101183ef3fb.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/32416129/128456781-cffd78ea-1064-4e3a-b956-de3816759bbf.png)
