@@ -53,7 +53,12 @@ Distribution of IPT (Inter-purchase Time) in histogram:
 
 https://public.tableau.com/authoring/Sales_Trend_16277222014070/RFMScoring_1/RFM%20Dashboard#1
 
+
+
 ![image](https://user-images.githubusercontent.com/32416129/128471821-9373075c-246e-4c55-bf7e-1bee9619b9b1.png)
+
+![image](https://user-images.githubusercontent.com/32416129/128516337-ee5ea802-2269-43be-a4ed-7b37bd83124e.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/32416129/128456781-cffd78ea-1064-4e3a-b956-de3816759bbf.png)
