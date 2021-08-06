@@ -67,8 +67,9 @@ https://public.tableau.com/authoring/Sales_Trend_16277222014070/RFMScoring_1/RFM
 
 ![image](https://user-images.githubusercontent.com/32416129/128520048-ae432499-d8b8-4fec-b04f-1b444fcd858c.png)
 
-- After classifying or assigning all the customers into segments with their RFM profiles as shown above, we can then aggregate the population size of each RFM profile segment which i have tabulated using a simple bar chart. Another form of visualization is done using Treemap to illustrate the different RFM segments expressed in percentage (%)
+- After classifying or assigning all the customers into segments with their RFM profiles as shown above, we can then aggregate the population size of each RFM profile segment which i have tabulated using a simple bar chart. Another form of visualization is done using Treemap to illustrate the different RFM segments expressed in percentage (%).
+
  
 ![image](https://user-images.githubusercontent.com/32416129/128456781-cffd78ea-1064-4e3a-b956-de3816759bbf.png)
 
-- To ensure achieving success in reducing customer churn, LIFT analysis can be used to measure the impact of any firm's marketing or promotional campaigns
+- To ensure achieving success in reducing customer churn, LIFT analysis can be used to measure the impact of any firm's marketing or promotional campaigns.
