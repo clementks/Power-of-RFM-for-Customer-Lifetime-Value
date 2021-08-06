@@ -20,8 +20,11 @@
 ![image](https://user-images.githubusercontent.com/32416129/128457373-cc7482a0-4fea-414b-af59-5ee2340ebff1.png)
 
 **Time series of the number of transactions (daily)**
+
 ![image](https://user-images.githubusercontent.com/32416129/128457527-19b408ea-18d9-4066-93d6-9b9dc5109207.png)
 
+**Sales Transaction Volume of each province and region in Canada**
+ 
 ![image](https://user-images.githubusercontent.com/32416129/128458081-b6b7fff0-1bbf-49d7-a7cd-e2c7c8bdf655.png)
 
 
