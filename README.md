@@ -39,7 +39,7 @@
 
 ![image](https://user-images.githubusercontent.com/32416129/128458837-0c08f5b9-ed53-4b65-b965-48020a8444d3.png)
 
-With the recent improvement in Tableau integration in Tableau Prep and TabPy Server, Python script can be embedded for customized analysis according to business requirement to leverage on Tableau interactivity features. 
+- With the recent improvement in Tableau integration in Tableau Prep and TabPy Server, Python script can be embedded for customized analysis according to business requirement to leverage on Tableau interactivity features. 
 
 
 ![image](https://user-images.githubusercontent.com/32416129/128458694-96dc6091-c0df-4756-b267-6101183ef3fb.png)
