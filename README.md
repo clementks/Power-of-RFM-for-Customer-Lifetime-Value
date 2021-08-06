@@ -11,8 +11,18 @@
 
    With the RFM scoring which enhances visibility into customer's behavioral data, it can provide insights make actionable decision to segment the customer base and apply for different marketing programs for different groups or clusters.
 
-   To achieve this RFM Scoring analysis, it can be realized using software applications such as Tableau Desktop or Python which can be complemented with Bokeh libraries to achieve the interactivity for data exploration to be on par with Tableau.
+   To achieve this RFM Scoring analysis without much investment in cost of software licensing, it can be realized using software applications such as Tableau Desktop or Python which can be complemented with Bokeh libraries to achieve the interactivity for data exploration to be on par with Tableau. Public Tableau domain is free.
 
+**Below is an illustration how RFM Scoring can be achieved using Transactional DataSet of a Canadian MegaStore for demonstration. 
+(ie: data values are not actual for confidentiality purpose)
+
+# Dataset Attributes or Features
+![image](https://user-images.githubusercontent.com/32416129/128457373-cc7482a0-4fea-414b-af59-5ee2340ebff1.png)
+
+**Time series of the number of transactions (daily)**
+![image](https://user-images.githubusercontent.com/32416129/128457527-19b408ea-18d9-4066-93d6-9b9dc5109207.png)
+
+![image](https://user-images.githubusercontent.com/32416129/128458081-b6b7fff0-1bbf-49d7-a7cd-e2c7c8bdf655.png)
 
 
 ![image](https://user-images.githubusercontent.com/32416129/128456781-cffd78ea-1064-4e3a-b956-de3816759bbf.png)
