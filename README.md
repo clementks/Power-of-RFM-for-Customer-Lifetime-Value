@@ -45,7 +45,7 @@
 ![image](https://user-images.githubusercontent.com/32416129/128458694-96dc6091-c0df-4756-b267-6101183ef3fb.png)
 
 
-- Below is an illustration of me utilizing Tableau for RFM Analysis, with a customer scoring assigned for each customer based on their historical purchase data
+- Below is an illustration of me utilizing Tableau for RFM Analysis, with customer scoring assigned for each customer based on their historical purchase data
 
 https://public.tableau.com/authoring/Sales_Trend_16277222014070/RFMScoring_1#1
 
