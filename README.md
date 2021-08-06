@@ -69,6 +69,8 @@ https://public.tableau.com/authoring/Sales_Trend_16277222014070/RFMScoring_1/RFM
 
 - After classifying or assigning all the customers into segments with their RFM profiles as shown above, we can then aggregate the population size of each RFM profile segment which i have tabulated using a simple bar chart. Another form of visualization is done using Treemap to illustrate the different RFM segments expressed in percentage (%).
 
+ ![image](https://user-images.githubusercontent.com/32416129/128523596-2d4d2ed4-2061-4e31-afa1-cc6b0974fed3.png)
+
  
 ![image](https://user-images.githubusercontent.com/32416129/128456781-cffd78ea-1064-4e3a-b956-de3816759bbf.png)
 
