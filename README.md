@@ -22,6 +22,8 @@
 
 **1.1 Time series of the number of transactions (daily)**
 
+- Time series of the number of transactions (daily)
+
 ![image](https://user-images.githubusercontent.com/32416129/128457527-19b408ea-18d9-4066-93d6-9b9dc5109207.png)
 
 **1.2 Sales Transaction Volume of each province and region in Canada**
