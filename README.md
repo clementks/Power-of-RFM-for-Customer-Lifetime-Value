@@ -62,9 +62,10 @@ https://public.tableau.com/authoring/Sales_Trend_16277222014070/RFMScoring_1/RFM
 
 ![image](https://user-images.githubusercontent.com/32416129/128520126-9a010416-dffd-45a8-96a2-13e0a88c52ee.png)
 
-After classifying or assigning all the customers into segments with their RFM profiles as shown above, we can then aggregate the population size of each RFM profile segment which i have tabulated using a simple bar chart.
+- Profiling customer(s) into the various personas group which has to be aligned with the marketing team to tailor marketing messaging and promotions, marketing campaign or promotions for the respective customer personas: VIP, Regular, and New Customer 
 
 ![image](https://user-images.githubusercontent.com/32416129/128520048-ae432499-d8b8-4fec-b04f-1b444fcd858c.png)
 
-
+- After classifying or assigning all the customers into segments with their RFM profiles as shown above, we can then aggregate the population size of each RFM profile segment which i have tabulated using a simple bar chart. Another form of visualization is done using Treemap to illustrate the different RFM segments expressed in percentage (%)
+ 
 ![image](https://user-images.githubusercontent.com/32416129/128456781-cffd78ea-1064-4e3a-b956-de3816759bbf.png)
