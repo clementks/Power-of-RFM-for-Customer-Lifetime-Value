@@ -76,4 +76,12 @@ https://public.tableau.com/authoring/Sales_Trend_16277222014070/RFMScoring_1/RFM
 
  ![image](https://user-images.githubusercontent.com/32416129/128523596-2d4d2ed4-2061-4e31-afa1-cc6b0974fed3.png)
 
-- To ensure achieving success in reducing customer churn, LIFT analysis can be used to measure the impact of any firm's marketing or promotional campaigns.
+- To ensure achieving success in reducing customer churn or rate of attrition, LIFT analysis can be used to measure the impact of any firm's marketing or promotional campaigns so that they can continue to make variation marketing strategies to improve their customer's engagement as part of their CRM programme. Market Basket Analysis is also an avenue to identify what assortment of products most frequently occur together in orders.  Using this relationship to increase profitability through cross-selling, recommendations, promotions, or even the placement of items on a menu or in a store to increase customer retention.
+
+
+**1.4 Association Mining as part of Market Basket Analysis**
+
+ - Association mining using FPGrowth algorithm or Apriori algorithm
+
+![image](https://user-images.githubusercontent.com/32416129/128534207-4fd83c52-5445-434b-90b0-3cbfcedce402.png)
+
