@@ -39,11 +39,14 @@
 
 ![image](https://user-images.githubusercontent.com/32416129/128458837-0c08f5b9-ed53-4b65-b965-48020a8444d3.png)
 
-- With the recent improvement in Tableau integration in Tableau Prep and TabPy Server, Python script can be embedded for customized analysis according to business requirement to leverage on Tableau interactivity features. 
+- the recent improvement in Tableau integration with Tableau Prep and TabPy Server enables Python script to be embedded for customized analysis according to business requirement to leverage on Tableau interactivity features. 
 
 
 ![image](https://user-images.githubusercontent.com/32416129/128458694-96dc6091-c0df-4756-b267-6101183ef3fb.png)
 
 
+- Below is an illustration of me utilizing Tableau for RFM Analysis, with a customer scoring assigned for each customer based on their historical purchase data
+
+https://public.tableau.com/authoring/Sales_Trend_16277222014070/RFMScoring_1#1
 
 ![image](https://user-images.githubusercontent.com/32416129/128456781-cffd78ea-1064-4e3a-b956-de3816759bbf.png)
