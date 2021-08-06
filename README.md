@@ -85,3 +85,10 @@ https://public.tableau.com/authoring/Sales_Trend_16277222014070/RFMScoring_1/RFM
 
 ![image](https://user-images.githubusercontent.com/32416129/128534207-4fd83c52-5445-434b-90b0-3cbfcedce402.png)
 
+
+ One of most common approach to find patterns other than clustering is Market Basket Analysis, which is a key technique used by large retailers like Amazon, Flipkart, etc to analyze customer buying habits by finding associations between the different items that customers place in their “shopping baskets”. The discovery of these associations can help virtually any firms with diverse assortment of products to develop marketing strategies is by gaining insight into which items are frequently purchased together by customers. The strategies may include:
+
+- Changing the store layout on assortment according to customer's pyschological shopping behaviour that appeals and attracts their attention
+- Customer behavior analysis
+- Cross marketing or Cross-selling as part of the recommender system
+- Purchase with purchase (PWP) promotional campaign
