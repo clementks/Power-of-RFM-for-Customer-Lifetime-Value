@@ -14,7 +14,8 @@
    To achieve this RFM Scoring analysis without much investment in cost of software licensing, it can be realized using software applications such as Tableau Desktop or Python which can be complemented with Bokeh libraries to achieve the interactivity for data exploration to be on par with Tableau. Public Tableau domain is free.
 
 **Below is an illustration how RFM Scoring can be achieved using Transactional DataSet of a Canadian MegaStore for demonstration. 
-(ie: data values are not actual for confidentiality purpose)
+
+(Disclaimer: data values are not actual for confidentiality purpose)
 
 # Dataset Attributes or Features
 ![image](https://user-images.githubusercontent.com/32416129/128457373-cc7482a0-4fea-414b-af59-5ee2340ebff1.png)
