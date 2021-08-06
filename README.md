@@ -22,7 +22,7 @@
 
 **1.1 Time series of the number of transactions (daily)**
 
-- Time series of the number of transactions (daily)
+- Time series of the number of transactions (daily) between the stipulated time-frame (ie: from 2009 to 2013)
 
 ![image](https://user-images.githubusercontent.com/32416129/128457527-19b408ea-18d9-4066-93d6-9b9dc5109207.png)
 
