@@ -49,11 +49,11 @@ Distribution of IPT (Inter-purchase Time) in histogram:
 ![image](https://user-images.githubusercontent.com/32416129/128458694-96dc6091-c0df-4756-b267-6101183ef3fb.png)
 
 
-- Below is a histogram of the customer's visits/patronization frequency to store, using the python lifetime package/library
+- Below is a histogram of the customer's visits/patronization frequency to store, using the python lifetimes package & libraries
 
 ![image](https://user-images.githubusercontent.com/32416129/129558777-f3063a8a-5421-41d1-8953-50c301deda86.png)
 
-- Using the python lifetime package - plot_frequency_recency_matrix library allows us to visualize the store frequency recency matrix of this megastore's business 
+- Using the python lifetimes package - plot_frequency_recency_matrix library allows us to visualize the store frequency recency matrix of this megastore's business 
 
 ![image](https://user-images.githubusercontent.com/32416129/129560203-e38cbbff-62e2-47cc-a9a8-727d642a3b21.png)
 
