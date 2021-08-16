@@ -58,6 +58,10 @@ Distribution of IPT (Inter-purchase Time) in histogram:
 ![image](https://user-images.githubusercontent.com/32416129/129560203-e38cbbff-62e2-47cc-a9a8-727d642a3b21.png)
 
 
+![image](https://user-images.githubusercontent.com/32416129/129588502-8dcc890b-586e-4b9b-81fa-196d107c8343.png)
+
+
+
 - Below is an illustration of me utilizing Tableau for RFM Analysis, with customer scoring assigned for each customer based on their historical purchase data
 
 https://public.tableau.com/authoring/Sales_Trend_16277222014070/RFMScoring_1/RFM%20Dashboard#1
