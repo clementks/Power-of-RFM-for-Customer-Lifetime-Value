@@ -49,6 +49,11 @@ Distribution of IPT (Inter-purchase Time) in histogram:
 ![image](https://user-images.githubusercontent.com/32416129/128458694-96dc6091-c0df-4756-b267-6101183ef3fb.png)
 
 
+- Below is a histogram of the customer's visits/patronization frequency to store, using the python lifetime package/library
+
+![image](https://user-images.githubusercontent.com/32416129/129558777-f3063a8a-5421-41d1-8953-50c301deda86.png)
+
+
 - Below is an illustration of me utilizing Tableau for RFM Analysis, with customer scoring assigned for each customer based on their historical purchase data
 
 https://public.tableau.com/authoring/Sales_Trend_16277222014070/RFMScoring_1/RFM%20Dashboard#1
