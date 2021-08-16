@@ -53,6 +53,10 @@ Distribution of IPT (Inter-purchase Time) in histogram:
 
 ![image](https://user-images.githubusercontent.com/32416129/129558777-f3063a8a-5421-41d1-8953-50c301deda86.png)
 
+- Using the python lifetime package - plot_frequency_recency_matrix library allows us to visualize the store frequency recency matrix of this megastore's business 
+-
+![image](https://user-images.githubusercontent.com/32416129/129560203-e38cbbff-62e2-47cc-a9a8-727d642a3b21.png)
+
 
 - Below is an illustration of me utilizing Tableau for RFM Analysis, with customer scoring assigned for each customer based on their historical purchase data
 
