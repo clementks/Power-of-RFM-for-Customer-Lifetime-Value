@@ -55,7 +55,7 @@ Distribution of IPT (Inter-purchase Time) in histogram:
 
 - Using the python lifetimes package - plot_frequency_recency_matrix library allows us to visualize the store frequency recency matrix of this megastore's business 
 
-
+![image](https://user-images.githubusercontent.com/32416129/129595432-1ae5095d-1b59-4369-9428-9527dba8e6c7.png)
 
 
 - Distribution Plot on Probability of Customer alive (ie:active) &  tabular form details of each customer.
