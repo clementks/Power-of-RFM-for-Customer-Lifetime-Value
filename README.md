@@ -57,8 +57,12 @@ Distribution of IPT (Inter-purchase Time) in histogram:
 
 ![image](https://user-images.githubusercontent.com/32416129/129560203-e38cbbff-62e2-47cc-a9a8-727d642a3b21.png)
 
+** - Conditional probability of each Customer alive in tabular form.**
+-
+From this frequency and recency plot, with the probability showing that significant number of customers for this store has small distribution to be alive (ie: active)
 
-![image](https://user-images.githubusercontent.com/32416129/129588502-8dcc890b-586e-4b9b-81fa-196d107c8343.png)
+![image](https://user-images.githubusercontent.com/32416129/129593831-8bcabf11-a97a-4f7b-ba03-8b5122f1b61a.png)
+
 
 
 
