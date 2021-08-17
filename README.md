@@ -60,7 +60,8 @@ Distribution of IPT (Inter-purchase Time) in histogram:
 
 - Distribution Plot on Probability of Customer alive (ie:active) &  tabular form details of each customer.
 
-From this frequency and recency plot, it illustrates the probability showing that distribution of customers for this store to be alive (ie: active) which appears to be significantly high.
+From this frequency and recency plot, it illustrates the probability distribution of customers for this store to be alive (ie: active) appears to be significantly high.
+
 
 ![image](https://user-images.githubusercontent.com/32416129/129653191-b6806286-6fc2-4b7a-925a-1a975976274c.png)
 
