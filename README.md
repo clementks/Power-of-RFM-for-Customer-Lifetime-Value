@@ -69,7 +69,7 @@ From this frequency and recency plot, it illustrates the probability distributio
 
 - Below is an illustration of me utilizing Tableau for RFM Analysis, with customer scoring assigned for each customer based on their historical purchase data
 
-https://public.tableau.com/authoring/Sales_Trend_16277222014070/RFMScoring_1/RFM%20Dashboard#1
+https://public.tableau.com/app/profile/kuo.sheng.clement/viz/Sales_Trend_16277222014070/RFMMarketBasketAssociationAnalysis
 
 
 
